@@ -1,16 +1,16 @@
-rsschool-summary
-Мaxim Apalikov
-junior-frontend-developer
+# rsschool-summary  
+## Мaxim Apalikov  
+##### junior-frontend-developer
 * **
 **Contacts:**
-Telephone: +7 967 7391050
-Email: apalikov.m@gmail.com
-Telegram: @Samaramaster
+* Telephone: +7 967 7691050
+* Email: apalikov.m@gmail.com
+* Telegram: @Samaramaster
 * **
 **About me:**
-Hello! My name is Maxim. i'm from the city Samara. Previously worked as a system administrator.
+* Hello! My name is Maxim. i'm from the city Samara. Previously worked as a system administrator.
 
-I am currently studying programming html, css, js, php. My goal is to become a good specialist and be able to make websites.
+* I am currently studying programming html, css, js, php. My goal is to become a good specialist and be able to make websites.
 * **
 **Skills and Mastery:**
 HTML5, CSS3
@@ -20,8 +20,7 @@ VS code
 Adobe Photoshop
 * **
 **Code example:**
-Our testArray function is passed two arrays of random length filled with random numbers.
-You need to calculate the sum of all elements of both arrays and return it from the function.
+* Our testArray function is passed two arrays of random length filled with random numbers. You need to calculate the sum of all elements of both arrays and return it from the function.
 
       function testArray(a, b) {
 
@@ -42,6 +41,7 @@ You need to calculate the sum of all elements of both arrays and return it from 
             return sumi+sumj;
 
         }
+
 * **
 **Courses:**
 * Web development for beginners: HTML и CSS in stepik      

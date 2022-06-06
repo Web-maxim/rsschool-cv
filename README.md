@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Web-maxim.github.io/rsschool-cv/cv
